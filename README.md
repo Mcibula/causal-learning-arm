@@ -1,5 +1,7 @@
 # Learning Low-Level Causal Relations using a Simulated Robotic Arm
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14550232.svg)](https://doi.org/10.5281/zenodo.14550232)
+
 This is the code for the paper [_Learning Low-Level Causal Relations Using a Simulated Robotic Arm_](https://arxiv.org/abs/2410.07751)
 presented at the International Conference on Artificial Neural Networks 2024.
 
